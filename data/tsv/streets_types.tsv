@@ -1,0 +1,12 @@
+id	name	abbreviation	description
+1	улица	ул.	NULL
+2	проезд		NULL
+3	переулок	пер.	NULL
+4	набережная	наб.	NULL
+5	площадь	пл.	NULL
+6	тупик		NULL
+7	проспект	пр-т	NULL
+8	массив		NULL
+9	дамба		NULL
+10	съезд		NULL
+11	бульвар	бул.	NULL
